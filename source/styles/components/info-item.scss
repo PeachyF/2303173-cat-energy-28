@@ -18,7 +18,7 @@
     }
 
     &__text {
-        font-family: "Oswald";
+        font-family: "Oswald", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $black;
@@ -59,7 +59,7 @@
 
     &__additional-text {
         color: $grey-very-dark;
-        font-family: "Lato";
+        font-family: "Lato", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         

@@ -61,7 +61,7 @@
     }
 
     &__title {
-        font-family: "Oswald";
+        font-family: "Oswald", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $black;
@@ -169,7 +169,7 @@
     }
 
     &__title {
-        font-family: "Oswald";
+        font-family: "Oswald", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $black;
@@ -189,7 +189,7 @@
 
     &__text {
         color: $grey-very-dark;
-        font-family: "Lato";
+        font-family: "Lato", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         position: relative;
@@ -281,7 +281,7 @@
     }
 
     &__price-text {
-        font-family: "Oswald";
+        font-family: "Oswald", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $black;

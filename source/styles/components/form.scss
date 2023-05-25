@@ -112,7 +112,7 @@
     }
 
     &__subtitle {
-        font-family: "Oswald";
+        font-family: "Oswald", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $black;
@@ -165,7 +165,7 @@
         border: 1px solid $grey-line-third;
         resize: none;
         width: 100%;
-        font-family: "Oswald";
+        font-family: "Oswald", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $grey-very-dark;
@@ -251,7 +251,7 @@
     }
 
     &__text-prompt {
-        font-family: "Lato";
+        font-family: "Lato", "Arial", sans-serif;
         font-style: normal;
         font-weight: 400;
         color: $black;
